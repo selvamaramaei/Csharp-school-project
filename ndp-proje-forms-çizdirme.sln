@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ndp-proje-forms-çizdirme", "ndp-proje-forms-çizdirme.csproj", "{31123CFF-3A72-47B7-81F3-D00530003171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31123CFF-3A72-47B7-81F3-D00530003171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31123CFF-3A72-47B7-81F3-D00530003171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31123CFF-3A72-47B7-81F3-D00530003171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31123CFF-3A72-47B7-81F3-D00530003171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A387F9-2558-40E0-872E-F096F83EBFD8}
+	EndGlobalSection
+EndGlobal
